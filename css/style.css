@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Helvetica Neue', sans-serif;
+                                                
+}
+
+.header-nav-link {
+    color: #fff;
+    opacity: 50%;
+}
+
+.acive-nav-link {
+    color: #fff;
+    opacity: 100%;
+}
+
+.header {
+    background-color: #373A3C;
+}
+
+.user-dropdown {
+    color: #ffffff77;
+    font-size: 16px
+}
+
+.hero-carousel {
+    position: relative;
+}
+
+.title {
+    position: absolute;
+    font-size: 36px;
+    color: #fff;
+    top: 206px;
+    right: 411px
+}
+.subtitle {
+    position: absolute;
+    font-size: 24px;
+    color: #fff;
+    top: 243px;
+    right: 437px
+}
+.trailer {
+    position: absolute;
+    background-color: #8DD83D;
+    color: #fff;
+    width: 138px;
+    height: 38px;
+    border: #8DD83D;
+    border-radius: 4px;
+    top: 406px;
+    right: 433px
+}
+.games {
+    position: absolute;
+    top: 406px;
+    right: 272px;
+    border: none;
+    width: 148px;
+    height: 38px;
+    color: #fff;
+    background-image: linear-gradient(#6C686F, #444548);
+}
+
+.highlights {
+    background-image: linear-gradient(#6C686F, #444548);
+}
+
+
+.highlights-header {
+    padding-top: 63px;
+}
+.xbox-icon {
+    display: block;
+    margin: auto;
+}
+.higlights-header {
+    text-align: center;
+    color: #fff;
+}
+.highliths-subtitle {
+    text-align: center;
+    color: #fff;
+}
+.card-img-top {
+    display: block;
+    width: 318px;
+    height: 180px;
+}
